@@ -1,2 +1,2 @@
 # Kata Advance Frontend Project 
-React app fetching data from a Public API
+My old React app project fetching data from a Public API.
